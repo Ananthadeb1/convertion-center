@@ -1,0 +1,13 @@
+.highlite-card{
+   transform:scaley(1.2);
+}
+.footer{
+    background-color: black;
+    height: 280px;
+    width: 100%;
+    margin-top: 150px;
+    color: white;
+}
+.fas{
+    color: lightskyblue;
+}
