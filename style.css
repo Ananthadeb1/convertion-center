@@ -5,7 +5,9 @@
 .round-space{
     border-radius: 25px;
 }
-
+.bnt-beauty{
+    text-decoration: none;
+}
 .footer{
     background-color: black;
     height: 280px;
